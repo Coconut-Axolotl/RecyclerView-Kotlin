@@ -4,7 +4,7 @@ Submitted by: **Jordez Fernandez**
 
 **RecyclerView-Kotlin** is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: **8** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
